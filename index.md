@@ -9,6 +9,11 @@ We have developed the below Apps,
 - Tasksheet Web App
 - Tasksheet REST API
 
+The Apps Url as below,
+
+- Web App via [www.tasksheet.in](www.tasksheet.in)
+- Rest API via [URl](https://tasksheetapi.azurewebsites.net)
+
 ### Modules
 
 The Deployment Modules as below,
