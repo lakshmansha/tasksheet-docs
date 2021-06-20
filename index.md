@@ -12,7 +12,7 @@ We have developed the below Apps,
 The Access Deployment Apps with below Url,
 
 - Web App via [URL](https://www.tasksheet.in)
-- Rest API via [URl](https://tasksheetapi.azurewebsites.net)
+- Rest API via [URL](https://tasksheetapi.azurewebsites.net)
 
 ### Modules
 
