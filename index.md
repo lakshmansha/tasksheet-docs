@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to Tasksheet
 
-You can use the [editor on GitHub](https://github.com/lakshmansha/tasksheet-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Application focused for Freelancer to manage there Client work with Tracker.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Apps
 
-### Markdown
+We have developed the below Apps,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Tasksheet Web App
+- Tasksheet REST API
 
-```markdown
-Syntax highlighted code block
+### Modules
 
-# Header 1
-## Header 2
-### Header 3
+The Deployment Modules as below,
 
-- Bulleted
-- List
+- Clients
+- Projects
+- Tasks
+- Tracker
 
-1. Numbered
-2. List
+The Module under Development as below,
 
-**Bold** and _Italic_ and `Code` text
+- Dashboard
+- Profile
+  - Change Password
+  - Forgot Password
+- Notifications
 
-[Link](url) and ![Image](src)
-```
+### Get Start
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To Get Started with the application,
 
-### Jekyll Themes
+- Sign Up with Your Information Such as Name, EmailID.
+- Create Clients, Projects, Tasks
+- Start Logging Hours via Tracker Modules
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lakshmansha/tasksheet-docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### API Reference
 
-### Support or Contact
+- TaskSheet PostMan API Documents - [Click Here](https://documenter.getpostman.com/view/1589172/TzXzDcSp)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Other Apps
+
+We not only focused on Web App, our road map consist of other Application under Tasksheet.
+
+- Tracker (PWA App)
+
+### Reference
+
+- UI Powered by AdminLTE - [Click Here](https://adminlte.io/themes/dev/AdminLTE/)
+
+### Feedback
+
+Your Feedback are valuable to the improvement of the Application. So kindly Send your feedback via [URL](https://forms.office.com/r/hB8pRmPpju)
