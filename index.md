@@ -30,15 +30,14 @@ The Deployment Modules as below,
 - Projects
 - Tasks
 - Tracker
+- Profile
 
 ## Upcoming Modules
 
 The Module under Development as below,
 
 - Dashboard
-- Profile
-  - Change Password
-  - Forgot Password
+- Forgot Password
 - Notifications
 
 ## Get Start
